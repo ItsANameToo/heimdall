@@ -29,14 +29,14 @@ Add the following snippet to the end of the file (or at least after core-p2p get
 
 ```javascript
 module.exports = {
-    '@arkecosystem/core-event-emitter': {},
-    '@arkecosystem/core-logger-winston': {},
+    "@arkecosystem/core-event-emitter": {},
+    "@arkecosystem/core-logger-winston": {},
     ...
     // Snippet to add
-    '@itsanametoo/heimdall': {
+    "@itsanametoo/heimdall": {
         enabled: true, // Enables the plugin, default value is false
-        publicKey: 'examplePublicKey1', // The public key of your delegate wallet
-        delegate: 'username', // The username of the delegate
+        publicKey: "examplePublicKey1", // The public key of your delegate wallet
+        delegate: "username", // The username of the delegate
         forgingOrder: {
             enabled: true, // Enables the forging order logging (per block)
             limit: 5 // The amount of delegates it will show
