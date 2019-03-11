@@ -1,0 +1,26 @@
+{
+  "name": "@itsanametoo/heimdall",
+  "version": "1.0.0",
+  "description": "Delegate forging order",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsANameToo/heimdall.git"
+  },
+  "author": "ItsANameToo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ItsANameToo/heimdall/issues"
+  },
+  "homepage": "https://github.com/ItsANameToo/heimdall#readme",
+  "dependencies": {
+    "@arkecosystem/core-container": "^2.2.0",
+    "@arkecosystem/crypto": "^2.2.0",
+    "axios": "^0.18.0",
+    "delay": "^4.1.0",
+    "pluralize": "^7.0.0"
+  }
+}
