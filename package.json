@@ -19,8 +19,6 @@
   "dependencies": {
     "@arkecosystem/core-container": "^2.2.0",
     "@arkecosystem/crypto": "^2.2.0",
-    "axios": "^0.18.0",
-    "delay": "^4.1.0",
-    "pluralize": "^7.0.0"
+    "axios": "^0.18.0"
   }
 }
