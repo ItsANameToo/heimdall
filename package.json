@@ -18,6 +18,7 @@
   "homepage": "https://github.com/ItsANameToo/heimdall#readme",
   "dependencies": {
     "@arkecosystem/core-container": "^2.2.0",
+    "@arkecosystem/core-utils": "^2.3.18",
     "@arkecosystem/crypto": "^2.2.0"
   }
 }
